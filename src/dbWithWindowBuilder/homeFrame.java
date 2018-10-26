@@ -36,6 +36,7 @@ public class homeFrame extends JFrame {
 		contentPane.add(welcome);
 		
 		
+		
 		JButton btnSupprimerLeCompte = new JButton("Supprimer le compte");
 		btnSupprimerLeCompte.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
